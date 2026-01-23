@@ -83,6 +83,7 @@
 
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6E70B19A343B939FD3A0DE99F9A72C1A02D553D60EA24C7FA0D318462A6C5099)
 
+[![NPTEL](https://img.shields.io/badge/NPTEL-success?style=for-the-badge&logo=google-scholar&logoColor=white)](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL24CS57S66880147630518177)
 
 
 ## 🤝 Open to Collaborate On
