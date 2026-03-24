@@ -95,7 +95,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vaidyam-lakshmi-nihanth-9b594a262)
+- 💼 [LinkedIn](www.linkedin.com/in/vaidyamlakshminihanth9b594a262)
 - 🌐 [Portfolio](https://github.com/Nihanth-2005)
 - 📧 [Email](mailto:vlakshminihanth@gmail.com)
 
